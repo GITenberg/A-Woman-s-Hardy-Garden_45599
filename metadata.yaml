@@ -1,0 +1,37 @@
+_repo: A-Woman-s-Hardy-Garden_45599
+_version: 0.1.0
+contributor:
+  photographer:
+    agent_name: Chandler, Charles Frederick
+    aliases:
+    - Chandler, C. F. (Charles Frederick)
+    - Chandler, Charles F. (Charles Frederick)
+    birthdate: 1836
+    deathdate: 1925
+    gutenberg_agent_id: '43347'
+    url: http://www.gutenberg.org/2009/agents/43347
+covers:
+- cover_type: archival
+  image_path: 45599-h/images/ill_f_cover.jpg
+creator:
+  author:
+    agent_name: Ely, Helena Rutherfurd
+    deathdate: 1920
+    gutenberg_agent_id: '43722'
+    url: http://www.gutenberg.org/2009/agents/43722
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Perennials'
+- !lcsh 'Landscape gardening'
+- !lcsh 'Flower gardening'
+- !lcc 'SB'
+title: A Woman's Hardy Garden
+url: http://www.gutenberg.org/ebooks/45599
