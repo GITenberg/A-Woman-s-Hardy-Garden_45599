@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '43722'
     url: http://www.gutenberg.org/2009/agents/43722
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45599#A-Woman-s-Hardy-Garden
 gutenberg_issued: '2014-07-19'
 gutenberg_type: Text
 identifiers:
